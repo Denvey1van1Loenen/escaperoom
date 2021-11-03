@@ -1,0 +1,17 @@
+body{
+    background-image: url('img/achtergrond\ -\ kopie.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.btn{
+    background-color: blue;
+    margin-left: 660px;
+    position: absolute;
+    top: 50%;
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
