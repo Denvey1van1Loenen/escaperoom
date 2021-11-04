@@ -1,0 +1,16 @@
+body{
+    background-image: url('img/foto-room1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.btn{
+    background-color: blue;
+    margin-left: 550px;
+    position: absolute;
+    top: 355px;
+    color: blue;
+    display: flex;
+    padding-top: 50px;
+    }
